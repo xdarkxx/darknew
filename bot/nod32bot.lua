@@ -248,7 +248,7 @@ function create_config( )
     "filter_word",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {149516204},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
